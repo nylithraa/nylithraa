@@ -5,5 +5,5 @@
   <a href="https://nylithra.lanux.xyz" target="_blank"><img src="https://img.shields.io/badge/🌐%20Web%20Sitem-0ea5e9?style=for-the-badge" alt="Web"></a>
 </p>
 
-<h1 aling="center">Öğrenilen Diller</h1>
+<h3 aling="center">Öğrenilen Diller</h3>
 <p align="left"> <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/nylithraa/nylithraa/refs/heads/main/photos/14101776.png" alt="flutter" width="40" height="40"/> </a> </p>

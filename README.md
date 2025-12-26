@@ -6,5 +6,6 @@
 </p>
 
 <h3 aling="center">Öğrenilen Diller</h3>
-<p align="left"> <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/nylithraa/nylithraa/refs/heads/main/photos/14101776.png" alt="flutter" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://gamemaker.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Nylithra/Nylithra.github.io/refs/heads/main/gamemaker.png" alt="GameMaker" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/nylithraa/nylithraa/refs/heads/main/photos/14101776.png" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://gamemaker.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Nylithra/Nylithra.github.io/refs/heads/main/gamemaker.png" alt="GameMaker" width="40" height="40"/> </a> </p>
